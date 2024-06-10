@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Join"
+        tools:targetApi="31">
+        <activity
+            android:name=".generic3"
+            android:exported="false" />
+        <activity
+            android:name=".generic2"
+            android:exported="false" />
+        <activity
+            android:name=".bcca_generic"
+            android:exported="false"
+            android:theme="@style/Theme.Join" />
+        <activity
+            android:name=".GenericActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bla"
+            android:exported="false" />
+        <activity
+            android:name=".bcca"
+            android:exported="false" />
+        <activity
+            android:name=".automobile"
+            android:exported="false" />
+        <activity
+            android:name=".nexus"
+            android:exported="false" />
+        <activity
+            android:name=".inside"
+            android:exported="false" />
+        <activity
+            android:name=".raid"
+            android:exported="false" />
+        <activity
+            android:name=".programming"
+            android:exported="false" />
+        <activity
+            android:name=".gdsc"
+            android:exported="false" />
+        <activity
+            android:name=".devlup"
+            android:exported="false" />
+        <activity
+            android:name=".robotics"
+            android:exported="false" />
+        <activity
+            android:name=".bss"
+            android:exported="false"
+            android:theme="@style/Theme.Join" />
+        <activity
+            android:name=".Designerds"
+            android:exported="false" />
+        <activity
+            android:name=".Sangam"
+            android:exported="false" />
+        <activity
+            android:name=".Ateliers"
+            android:exported="false" />
+        <activity
+            android:name=".Raw"
+            android:exported="false" />
+        <activity
+            android:name=".Tgt"
+            android:exported="false" />
+        <activity
+            android:name=".Framex"
+            android:exported="false" />
+        <activity
+            android:name=".ShutterbugsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DramebaazActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Shutterbugs"
+            android:exported="false" />
+        <activity
+            android:name=".bac"
+            android:exported="false" />
+        <activity
+            android:name=".mainactivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Sacactivity"
+            android:exported="false" />
+        <activity
+            android:name=".Acaccollege"
+            android:exported="false" />
+        <activity
+            android:name=".AboutCollege"
+            android:exported="false" />
+        <activity
+            android:name=".Academics"
+            android:exported="false" />
+        <activity
+            android:name=".TenthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FinalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NinthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EigthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeventhActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SixthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FifthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FourthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
