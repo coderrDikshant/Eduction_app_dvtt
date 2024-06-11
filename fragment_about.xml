@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="aboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="327dp"
+        android:layout_height="598dp"
+
+
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="43dp"
+        android:text="Welcome to Dummy_App, your go-to resource for academic Success! Our app is designed to provide students with Comprehensive notes, previous year major and minor exam Dapers, and quizzes to enhance your study experience. Additionally, we offer insights into professors' grading systems to help you understand the evaluation criteria and prepare more effectively.
+
+Developed by second-year students Dikshant, Vishwendra, Tashir, and Tanmay using Kotlin and its libraries, our app aims to bridge the gap between students and essential study materials. Whether you're gearing up for exams or looking to deepen your understanding of course material, Dummy_app s here to support your academic journey."
+        android:textSize="20dp" />
+
+</RelativeLayout>
